@@ -20,4 +20,4 @@ public class GeoController : MonoBehaviour {
             transform.position += new Vector3(0, 1, 0);
         }
     }
-}                                                                         
+}                                                                          
